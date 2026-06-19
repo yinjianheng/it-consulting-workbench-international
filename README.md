@@ -1,95 +1,120 @@
-# IT Consulting & AI Transformation Advisor Workbench
+# 🏢 IT Consulting & AI Transformation Advisor Workbench v1.1.0
 
-> **Author**: yinjianheng | **Version**: 1.1.0 | **Date**: 2026-06-02
+[![Version](https://img.shields.io/badge/version-1.1.0-blue)](https://github.com/yinjianheng/it-consulting-workbench-international)
+[![License](https://img.shields.io/badge/license-Personal%20Use%20Only-red)](./LICENSE)
+[![Author](https://img.shields.io/badge/author-yinjianheng-orange)](https://github.com/yinjianheng)
+[![Platform](https://img.shields.io/badge/platform-WuKong%20%7C%20Claude%20%7C%20OpenClaw-brightgreen)](https://github.com/yinjianheng)
+[![Files](https://img.shields.io/badge/files-58-9cf)](https://github.com/yinjianheng/it-consulting-workbench-international)
 
-## One-Line Introduction
+> **Full-Stack IT Consulting AI Assistant | 8 Phases · 57 Files · 12 Templates · Benchmarked Against McKinsey / Bain / BCG / Accenture / Deloitte / Thoughtworks**
+>
+> Covers IT Strategy, AI Transformation, Technology Due Diligence, Enterprise Architecture, Cloud Migration, Data Governance, Security Assessment, Change Management
 
-**IT Consulting & AI Transformation Advisor Workbench** — A full-stack automation skill for IT consultants, AI transformation advisors, digital transformation consultants, CIO advisors, and enterprise architects. Covers the complete consulting lifecycle from initial pre-contract communication to project acceptance and knowledge transfer. Anyone with zero experience can reach top-tier consulting proficiency after using this Skill (benchmarked against Accenture/McKinsey/Bain/BCG/Deloitte/Thoughtworks).
+---
 
-## Core Capabilities
+## 🎯 Why This Skill?
+
+| Pain Point | Solution |
+|------------|----------|
+| 🏗️ Consulting lifecycle is long, methodologies are fragmented | **8-Phase Complete Lifecycle**: From first client meeting to project acceptance, 57 operational files guide every step |
+| 📊 Strategic reports lack structured frameworks | **12 Fill-in-the-Blank Templates**: Proposal, Diagnostic Report, IT Strategy, Business Case — just fill in your company name |
+| 🔍 Technology due diligence has no systematic approach | **Bain Methodology + 5 Dimensions 100+ Checklist Items**: Architecture / Engineering / Security / Data / Team |
+| 💰 ROI justification lacks persuasiveness | **Five Case Model + NPV/IRR/Payback + Sensitivity Analysis**: CFO-grade financial justification |
+| 🤖 AI transformation — where to start? | **AIM² Maturity Model (L1-L5) + RICE+ Use Case Scoring + Agentic AI Three-Tier Architecture** |
+
+---
+
+## 🚀 Core Capability Matrix
 
 | Phase | Capability | Key Deliverables |
-|------|------|-----------|
-| Business Development | Initial Client Communication → Requirements Clarification → Proposal → SOW Negotiation & Signing | Project Proposal, Statement of Work |
-| Project Initiation & Diagnosis | Project Charter → Stakeholder Interviews → IT Five-Dimensional Diagnosis → Diagnostic Report | Diagnostic Report, Maturity Radar Chart |
-| Strategy & Solution Design | IT Strategy / AI Transformation / Enterprise Architecture / Cloud Strategy / Data Strategy / Security Strategy | 6 Types of Strategic Reports + Roadmap |
-| Technology Assessment & Selection | Technology Due Diligence → RFP Development → Vendor Demos → PoC → Final Decision | RFP Documents, Scorecard, Selection Report |
-| Financial Analysis | TCO Modeling → ROI Analysis → Business Case → FinOps Cost Optimization | TCO Model, Business Case |
-| Change Management & Organization | ADKAR+Kotter Change Management → IT Organization Design → Talent Planning | Change Management Plan, Organization Structure |
-| Implementation & PMO | Three-Tier Governance → Risk/Quality/Change Management → Vendor Daily Management | PMO Dashboard, Status Report |
-| Delivery & Closure | Executive Presentation → Project Acceptance → Knowledge Transfer → Follow-up Cooperation | Board PPT, Acceptance Report |
+|-------|------------|-----------------|
+| 0️⃣ Business Development | Initial meeting → Needs diagnosis → Proposal → SOW | Project Proposal, Statement of Work |
+| 1️⃣ Project Initiation & Diagnosis | Project Charter → Stakeholder Interviews → IT 5-Dimension Diagnosis | Diagnostic Report, Maturity Radar |
+| 2️⃣ Strategy & Solution Design | IT Strategy / AI Transformation / Enterprise Architecture / Cloud / Data / Security | 6 Strategy Reports + Roadmaps |
+| 3️⃣ Technology Assessment & Selection | Tech DD → RFP → Vendor Demos → PoC → Decision | RFP, Scorecard, Selection Report |
+| 4️⃣ Financial Analysis & Business Case | TCO Modeling → ROI → Business Case → FinOps | TCO Model, Business Case |
+| 5️⃣ Change Management & Organization | ADKAR + Kotter Change Management → IT Org Design | Change Plan, Org Structure |
+| 6️⃣ Implementation & PMO | Three-Tier Governance → Risk/Quality/Change → Vendor Management | PMO Dashboard, Status Reports |
+| 7️⃣ Delivery & Closure | Executive Presentation → Acceptance → Knowledge Transfer → Follow-up | Board PPT, Acceptance Report |
 
-## Methodology Arsenal
+---
 
-- **Structured Thinking**: MECE Decomposition → Hypothesis-Driven → Pyramid Principle → SCQA Narrative
-- **IT Strategy**: Business Capability Heatmap → SoR/SoD/SoI Application Classification → Run/Grow/Transform Investment Portfolio
-- **AI Transformation**: AIM² Maturity Model (L1-L5) → 5D Framework → RICE+ Use Case Scoring → Agentic AI Three-Tier Architecture
-- **Enterprise Architecture**: TOGAF ADM → Four-Layer Architecture (Business/Data/Application/Technology) → ADR Architecture Decision Records
-- **Cloud Migration**: 6R Framework → Landing Zone Design → FinOps Three Phases
-- **Security**: NIST CSF 2.0 → Zero Trust Architecture → OT/IT Security Convergence
-- **Change**: ADKAR Five Stages → Kotter 8-Step → Adoption Dashboard
-- **Finance**: Five Case Model → NPV/IRR/Payback → Sensitivity Analysis
-- **Industry Solutions**: Finance / Manufacturing / Retail / Healthcare / Government / Energy / Central SOEs / Digital Native — 8 Industry Playbooks
-- **Digital China**: "Digital China 2025" Construction Action Plan, "Data Element ×" Three-Year Action Plan, Xinchuang Domestic Substitution
-- **Zero Trust Security**: NIST SP 800-207 Standard + Three Technical Paths (Identity/Device/Network) + 2026 Trends
-- **FinOps Deep Dive**: AISMM Four-Stage Evolution (Observable → Attributable → Optimizable → Evolvable) + Unit Economics
-- **Technology Due Diligence**: Bain Methodology + 5 Dimensions 100+ Checklist Items (Architecture/Engineering/Security/Data/Team) + Valuation Quantification
-- **IT Change Management**: ADKAR+Kotter Integration + IT Organization Change Ten Disciplines + Change Fatigue Management
-- **AI Strategy Deepening**: McKinsey AI Value Creation Three Waves + GenAI Implementation Gap (46%→9%) + AI High Performer Profile
+## 🧠 Methodology Arsenal
 
-## Quick Install
+| Domain | Methodologies |
+|--------|--------------|
+| Structured Thinking | MECE → Hypothesis-Driven → Pyramid Principle → SCQA Narrative |
+| IT Strategy | Business Capability Heatmap · SoR/SoD/SoI · Run/Grow/Transform |
+| AI Transformation | AIM² Maturity Model (L1-L5) · 5D Framework · RICE+ · Agentic AI 3-Tier |
+| Enterprise Architecture | TOGAF ADM · 4-Layer Architecture · ADR Decision Records |
+| Cloud Migration | 6R Framework · Landing Zone · FinOps 3 Phases |
+| Security | NIST CSF 2.0 · Zero Trust (NIST SP 800-207) · OT/IT Convergence |
+| Change Management | ADKAR 5 Stages · Kotter 8-Step · Adoption Dashboard |
+| Financial Analysis | Five Case Model · NPV/IRR/Payback · Sensitivity Analysis |
+| Tech Due Diligence | Bain Methodology · 5 Dimensions 100+ Checklist · Valuation Quantification |
+| Industry Playbooks | Finance / Manufacturing / Retail / Healthcare / Government / Energy / SOEs / Digital Native |
+
+---
+
+## 📦 Quick Start
 
 ```bash
-cp -r ~/Desktop/it-consulting-workbench ~/.claude/skills/it-consulting-workbench
+cp -r it-consulting-workbench-international ~/.claude/skills/
 ```
 
-## Trigger Methods
+**Trigger**: Just describe your need — supports 50+ Chinese aliases and 20+ English aliases:
+- "Run an IT maturity assessment"
+- "Write an AI transformation roadmap"
+- "Evaluate this vendor's technical proposal"
+- "Build a TCO model"
+- "Prepare a board presentation"
 
-Simply describe your needs. Supports 50+ Chinese aliases and 20+ English aliases, covering:
+---
 
-**Chinese**: IT consulting, IT consultant, AI consulting, AI transformation advisor, digital transformation consultant, CIO advisor, IT strategic planning, IT planning, enterprise architecture design, technology consulting, management consulting, informatization planning, digitalization planning, technology due diligence, vendor selection, RFP, TCO, business case, change management, organization design, PMO, board presentation, proposal, project proposal...
-
-**English**: IT consulting, IT consultant, AI consulting, digital transformation, CIO advisor, IT strategy, enterprise architecture, technology consulting, management consulting, cloud strategy, data strategy, cybersecurity assessment, vendor selection, RFP, TCO, business case, board presentation...
-
-## File Structure
+## 📁 File Structure
 
 ```
-it-consulting-workbench/
-├── SKILL.md                          # Core Entry Point (Dispatch Center + Routing Table + Core Constraints)
-├── _meta.json                        # Metadata
-├── README.md                         # This File
-├── workflows/                        # 35 Files: 8-Phase Complete Consulting Operations Guide
-│   ├── 01-Business Development & Signing/      # 4 Operational Files
-│   ├── 02-Project Initiation & Diagnosis/      # 4 Operational Files
-│   ├── 03-Strategy & Solution Design/          # 6 Operational Files
-│   ├── 04-Technology Assessment & Selection/   # 3 Operational Files
-│   ├── 05-Financial Analysis & Business Case/  # 3 Operational Files
-│   ├── 06-Change Management & Org Design/      # 2 Operational Files
-│   ├── 07-Implementation & PMO/                # 2 Operational Files
-│   └── 08-Delivery & Closure/                  # 3 Operational Files
-├── templates/                        # 12 Fill-in-the-Blank Deliverable Templates
-├── references/                       # 4 In-Depth Methodology References
-└── tools/                            # 3 Practical Diagnostic Tools
+it-consulting-workbench-international/
+├── SKILL.md                    # Core entry point
+├── workflows/                  # 35 files: 8-phase complete operations guide
+│   ├── 01-Business Development & Signing/
+│   ├── 02-Project Initiation & Diagnosis/
+│   ├── 03-Strategy & Solution Design/
+│   ├── 04-Technology Assessment & Selection/
+│   ├── 05-Financial Analysis & Business Case/
+│   ├── 06-Change Management & Org Design/
+│   ├── 07-Implementation & PMO/
+│   └── 08-Delivery & Closure/
+├── templates/                  # 12 fill-in-the-blank deliverable templates
+├── references/                 # 4 in-depth methodology references
+└── tools/                      # 3 practical diagnostic tools
 ```
 
-## Benchmarked Companies
+---
 
-| Dimension | Benchmark | Core Methodology |
-|------|------|-----------|
-| Structured Thinking | McKinsey | MECE + Hypothesis-Driven + Pyramid Principle |
-| Results-Oriented | Bain | Measurable Metrics First + Actionable > Methodological Perfection |
-| Strategic Height | BCG | Growth Share Matrix + Three Pillars + Competitive Advantage |
-| Engineering Capability | Accenture | Strategy → Design → Build → Operate Full-Stack Delivery |
-| Industry Depth | Deloitte | Industry-Specific Playbook + Compliance Depth |
-| Agile Modernization | Thoughtworks | Continuous Modernization + Embedded Governance + 5D AI Framework |
+## 🔗 Related Skills
 
+| Skill | Focus | Repository |
+|-------|-------|------------|
+| [sa-pro-workbench-international](https://github.com/yinjianheng/sa-pro-workbench-international) | Solution Architect Workbench | Architecture · Diagrams · Bidding |
+| [ba-workbench-international](https://github.com/yinjianheng/ba-workbench-international) | Business Analysis Workbench | Strategy · Financial Modeling · Business Case |
+| [b2b-pm-workbench-international](https://github.com/yinjianheng/b2b-pm-workbench-international) | B2B PM Workbench | PRD · SaaS · AI Products |
 
-## Version History
-| Version | Date | Change Description |
-|------|------|---------|
-| v1.1.0 | 2026-06-16 | Deep Upgrade: McKinsey AI Three Waves, FinOps AISMM, Zero Trust NIST SP 800-207, Bain Technology Due Diligence Five Dimensions, Digital China 2025 + Data Element ×, IT Organization Change Integration Model |
-| v2.0.0 | 2026-06-02 | Initial Version |
+> 💡 **Chinese Edition**: [it-consulting-workbench](https://github.com/yinjianheng/it-consulting-workbench) — China-focused consulting AI assistant
 
-## Dependencies
-- **Required**: None (Core capabilities do not depend on external tools)
-- **Recommended**: draw.io Desktop (if architecture diagrams are needed)
+---
+
+## 📄 License
+
+**Notice**: This Skill is a personal open-source project for personal learning, research, and non-commercial use only. Any form of commercial use (including but not limited to resale, bundled sales, commercial training, SaaS-based services) is strictly prohibited without the author's written authorization. The author has retained a professional IP legal team for global monitoring; infringement will be prosecuted.
+
+---
+
+<p align="center">
+  <b>👨‍💻 yinjianheng (Yin Jianheng)</b> &nbsp;|&nbsp;
+  📧 yinjianheng@foxmail.com &nbsp;|&nbsp;
+  💬 WeChat: YJH-yinjianheng
+</p>
+<p align="center">
+  <sub>⭐ If this Skill helps you, please give it a Star to help others discover it!</sub>
+</p>
